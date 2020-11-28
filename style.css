@@ -1,0 +1,158 @@
+h1 {
+   
+  font-size: 72px;
+  font-family: "Nasalization";
+  color: rgb(223, 243, 255);
+  line-height: 1.2;
+  text-align: left;
+  position: absolute;
+  left: 181.172px;
+  top: 103.5px;
+  z-index: 3;
+
+}
+h2 {
+   
+  font-size: 72px;
+  font-family: "Nasalization";
+  color: rgb(223, 243, 255);
+  line-height: 1.2;
+  text-align: left;
+  position: absolute;
+  left: 521.172px;
+  top: 90.5px;
+  z-index: 3;
+
+}
+h3 {
+   
+  font-size: 72px;
+  font-family: "Nasalization";
+  color: rgb(223, 243, 255);
+  line-height: 1.2;
+  text-align: left;
+  position: absolute;
+  left: 801.172px;
+  top: 80.5px;
+  z-index: 3;
+
+}
+header {
+    height: 50px;
+    margin-top: 20px;
+    margin-left: 1000px;
+}
+
+body {
+  background-image: url(http://www.mobilmusic.ru/mfile/2e/8c/78/879142.jpg);
+}
+
+a {
+  text-decoration: none;
+  font-size: 20px;
+    color:beige;
+    padding: 20px;
+  font-family: Didot, serif;
+    
+    
+}
+.bott-1 {
+    
+  border-width: 1px;
+  border-style: solid;
+  border-radius: 20px;
+  background-image: -moz-linear-gradient(
+    90deg,
+    rgb(7, 6, 46) 0%,
+    rgb(17, 89, 87) 100%
+  );
+  background-image: -webkit-linear-gradient(
+    90deg,
+    rgb(7, 6, 46) 0%,
+    rgb(17, 89, 87) 100%
+  );
+  background-image: -ms-linear-gradient(
+    90deg,
+    rgb(7, 6, 46) 0%,
+    rgb(17, 89, 87) 100%
+  );
+  box-shadow: 0px 28px 7px 0px rgba(0, 0, 0, 0.22);
+  position: absolute;
+    color: aliceblue;
+  left: 254px;
+  top: 260px;
+  width: 100px;
+  height: 50px;
+  z-index: 2;
+}
+.bott-2 {
+    
+  border-width: 1px;
+  border-style: solid;
+  border-radius: 20px;
+  background-image: -moz-linear-gradient(
+    90deg,
+    rgb(7, 6, 46) 0%,
+    rgb(17, 89, 87) 100%
+  );
+  background-image: -webkit-linear-gradient(
+    90deg,
+    rgb(7, 6, 46) 0%,
+    rgb(17, 89, 87) 100%
+  );
+  background-image: -ms-linear-gradient(
+    90deg,
+    rgb(7, 6, 46) 0%,
+    rgb(17, 89, 87) 100%
+  );
+  box-shadow: 0px 28px 7px 0px rgba(0, 0, 0, 0.22);
+  position: absolute;
+    color: aliceblue;
+  left: 574px;
+  top: 260px;
+  width: 100px;
+  height: 50px;
+  z-index: 2;
+}
+.bott-3 {
+    
+  border-width: 1px;
+  border-style: solid;
+  border-radius: 20px;
+  background-image: -moz-linear-gradient(
+    90deg,
+    rgb(7, 6, 46) 0%,
+    rgb(17, 89, 87) 100%
+  );
+  background-image: -webkit-linear-gradient(
+    90deg,
+    rgb(7, 6, 46) 0%,
+    rgb(17, 89, 87) 100%
+  );
+  background-image: -ms-linear-gradient(
+    90deg,
+    rgb(7, 6, 46) 0%,
+    rgb(17, 89, 87) 100%
+  );
+  box-shadow: 0px 28px 7px 0px rgba(0, 0, 0, 0.22);
+  position: absolute;
+    color: aliceblue;
+  left: 874px;
+  top: 260px;
+  width: 100px;
+  height: 50px;
+  z-index: 2;
+}
+button:hover {
+    background-color: #4CAF50; /* Green */
+    color: #f7ff1e;
+     
+  top: 240px;
+  width: 110px;
+  height: 60px;
+    
+}
+a:hover {
+    color: yellowgreen;
+}
+

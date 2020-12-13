@@ -2,7 +2,7 @@
 
 
 
-let flowers = document.querySelector('.flower-1').style.color = "red";
+//let flowers = document.querySelector('.flower-1').style.color = "red";
 
 
 
@@ -28,8 +28,38 @@ let flowers = document.querySelector('.flower-1').style.color = "red";
 
 
 
-let category = 'toys'
+//let category = 'toys'
+//
+//console.log(`http://someurl.com/${category}/5/hthth`) // Интерполяция
 
-console.log(`http://someurl.com/${category}/5/hthth`)
+
+const numberOfFilms = +prompt("Сколько фильмов вы посмотрели?", "")
+
+let personalMovieDB = {
+    count: numberOfFilms,
+    movies: {},
+    actors: {},
+    genres:[],
+    privat: false
+};
+
+
+const a = prompt("Один из просмотренных фильмов?", ''),
+ b = prompt("На сколько оцените его?", ''),
+ c = prompt("Один из просмотренных фильмов?", ''),
+ d = prompt("На сколько оцените его?", '');
+
+personalMovieDB.movies[a] = b;
+personalMovieDB.movies[c] = d;
+
+console.log(personalMovieDB)
+
+
+
+
+
+
+
+
 
 
